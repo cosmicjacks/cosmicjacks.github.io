@@ -1,0 +1,11 @@
+body{
+	background: url("images/stripes.png") no-repeat;
+	background-color:#8f2e60;
+	background-size: 800px 15px, cover;
+  	font-size: 20px;
+  	font-family: Francois One;
+  	color: ghostwhite;
+  	padding: 300px;
+  	line-height: 30px;
+
+}
